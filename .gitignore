@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+artifacts/*.json
+artifacts/*.pkl
+cache/
+data/live_*.csv
+data/*.parquet
+*.pkl
+.pytest_cache/
+.vibe/
